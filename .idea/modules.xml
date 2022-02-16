@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2 semester opgaver.iml" filepath="$PROJECT_DIR$/2 semester opgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUnitTest/JUnitTest.iml" filepath="$PROJECT_DIR$/JUnitTest/JUnitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlists/linkedlists.iml" filepath="$PROJECT_DIR$/linkedlists/linkedlists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s773opg12/s773opg12.iml" filepath="$PROJECT_DIR$/s773opg12/s773opg12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s774opg16/s774opg16.iml" filepath="$PROJECT_DIR$/s774opg16/s774opg16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s774opg18/s774opg18.iml" filepath="$PROJECT_DIR$/s774opg18/s774opg18.iml" />
+    </modules>
+  </component>
+</project>
